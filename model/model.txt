@@ -1,0 +1,2 @@
+Download model (resnet50v2_caltech101.h5) from this link:
+https://epnecuador-my.sharepoint.com/:u:/g/personal/ronny_amores_epn_edu_ec/EUqwK5U1afNAsOwwIDxVWKQB3iULcNWyOHEpIBO43VBVYw?e=UxP1Pt
