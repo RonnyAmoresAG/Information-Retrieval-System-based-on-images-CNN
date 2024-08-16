@@ -21,36 +21,37 @@ To run this project locally, follow these steps:
 1. Clone this repository.
    ```bash
    git clone https://github.com/RonnyAmoresAG/Information-Retrieval-System-based-on-images-CNN.git
-Navigate to the project directory.
-bash
-Copiar código
+2. Navigate to the project directory.
+
 cd Information-Retrieval-System-based-on-images-CNN
-Create and activate a virtual environment (optional but recommended).
-bash
-Copiar código
+
+3. Create and activate a virtual environment (optional but recommended).
+
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install the required dependencies using the requirements.txt file.
-bash
-Copiar código
-pip install -r requirements.txt
-Run the Flask application.
-bash
-Copiar código
-python app.py
-Usage
-Access the web application in your browser.
-Upload an image from your computer.
-The system will display the most similar images found in the dataset.
-Results
-In the CNN_pretrained_model.ipynb notebook, it is demonstrated how the ResNet50V2 network can classify images with high accuracy. Additionally, in the Information Retrieval System based on images.ipynb notebook, it is shown how the k-NN based system effectively retrieves similar images.
+4. Install the required dependencies using the requirements.txt file.
 
-Contributing
+
+pip install -r requirements.txt
+
+5. Run the Flask application.
+
+
+python app.py
+
+6. Usage
+-Access the web application in your browser.
+-Upload an image from your computer.
+-The system will display the most similar images found in the dataset.
+-Results
+-In the CNN_pretrained_model.ipynb notebook, it is demonstrated how the ResNet50V2 network can classify images with high accuracy. Additionally, in the Information Retrieval System based on --images.ipynb notebook, it is shown how the k-NN based system effectively retrieves similar images.
+
+7.Contributing
 Contributions are welcome. If you wish to contribute, please open a pull request.
 
-License
+8.License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+9.Contact
 Ronny Amores - ronny.amores@epn.edu.ec
 
