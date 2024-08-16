@@ -40,8 +40,10 @@ To run this project locally, follow these steps:
    python app.py
 
 6. Usage
-      -Access the web application in your browser.
-      -Upload an image from your computer.
+
+   -Access the web application in your browser.
+
+   -Upload an image from your computer.
    -The system will display the most similar images found in the dataset.
    -Results
    -In the CNN_pretrained_model.ipynb notebook, it is demonstrated how the ResNet50V2 network can classify images with high accuracy. Additionally, in the Information Retrieval System based on ---images.ipynb notebook, it is shown how the k-NN based system effectively retrieves similar images.
