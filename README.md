@@ -39,21 +39,25 @@ To run this project locally, follow these steps:
     ```bash
    python app.py
 
-6. Usage
+## 6. Usage
 
-   -Access the web application in your browser.
+- Access the web application in your browser.
+- Upload an image from your computer.
+- The system will display the most similar images found in the dataset.
+- **Results**:
+  - In the `CNN_pretrained_model.ipynb` notebook, it is demonstrated how the ResNet50V2 network can classify images with high accuracy.
+  - Additionally, in the `Information Retrieval System based on images.ipynb` notebook, it is shown how the k-NN based system effectively retrieves similar images.
 
-   -Upload an image from your computer.
-   -The system will display the most similar images found in the dataset.
-   -Results
-   -In the CNN_pretrained_model.ipynb notebook, it is demonstrated how the ResNet50V2 network can classify images with high accuracy. Additionally, in the Information Retrieval System based on ---images.ipynb notebook, it is shown how the k-NN based system effectively retrieves similar images.
+## 7. Contributing
 
-7.Contributing
-   Contributions are welcome. If you wish to contribute, please open a pull request.
+Contributions are welcome. If you wish to contribute, please open a pull request.
 
-8.License
-   This project is licensed under the MIT License. See the LICENSE file for more details.
+## 8. License
 
-9.Contact
-   Ronny Amores - ronny.amores@epn.edu.ec
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## 9. Contact
+
+Ronny Amores - [ronny.amores@epn.edu.ec](mailto:ronny.amores@epn.edu.ec)
+
 
